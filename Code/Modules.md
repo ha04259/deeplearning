@@ -35,3 +35,6 @@ Modul1 contains below code examples
 [Lesson_8](https://github.com/ha04259/deeplearning/blob/main/Code/Lesson_8.md)
 [Lesson_9](https://github.com/ha04259/deeplearning/blob/main/Code/Lesson_9.md)
 [Lesson_10](https://github.com/ha04259/deeplearning/blob/main/Code/Lesson_10.md)
+
+
+syntax formatting doc: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#line-breaks
