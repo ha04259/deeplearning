@@ -1,0 +1,1 @@
+Module1: https://community.deeplearning.ai/t/ap4b-lecture-notes/731257?_gl=1*h92hwl*_gcl_au*NjM0NjI5NjUyLjE3ODIyOTk0MDM.*_ga*MTQwODY1ODMxMi4xNzgzNTcwNjg3*_ga_FR2MZ1VLMS*czE3ODUwNDc4NjQkbzIwJGcxJHQxNzg1MDQ4MDM3JGoxNCRsMCRoMA..
